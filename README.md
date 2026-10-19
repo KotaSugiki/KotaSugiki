@@ -17,21 +17,18 @@
 
 ## Tech Stack
 
-<img alt="React" src="https://skillicons.dev/icons?i=react" />
-<img alt="Python" src="https://skillicons.dev/icons?i=py" />
-<img alt="HTML" src="https://skillicons.dev/icons?i=html" />
-<img alt="CSS" src="https://skillicons.dev/icons?i=css" />
-<img alt="Oracle SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" />
-<img alt="TypeScript" src="https://skillicons.dev/icons?i=ts" />
-<img alt="JavaScript" src="https://skillicons.dev/icons?i=js" />
-<img alt="GitHub" src="https://skillicons.dev/icons?i=github" />
-<img alt="Gitea" src="https://cdn.simpleicons.org/gitea/609926" width="48" height="48" />
-<img alt="Git" src="https://skillicons.dev/icons?i=git" />
-<img alt="npm" src="https://skillicons.dev/icons?i=npm" />
-<img alt="Anaconda" src="https://skillicons.dev/icons?i=anaconda" />
-<img alt="Notion" src="https://skillicons.dev/icons?i=notion" />
-<img alt="Linux" src="https://skillicons.dev/icons?i=linux" />
-<img alt="Windows" src="https://skillicons.dev/icons?i=windows" />
+<table>
+<tr>
+<td valign="top" width="50%">
+<h3>Languages</h3>
+<img alt="Python" src="https://skillicons.dev/icons?i=py" /> <img alt="HTML" src="https://skillicons.dev/icons?i=html" /> <img alt="CSS" src="https://skillicons.dev/icons?i=css" /> <img alt="Oracle SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" /> <img alt="TypeScript" src="https://skillicons.dev/icons?i=ts" /> <img alt="JavaScript" src="https://skillicons.dev/icons?i=js" />
+</td>
+<td valign="top" width="50%">
+<h3>Tools</h3>
+<img alt="React" src="https://skillicons.dev/icons?i=react" /> <img alt="GitHub" src="https://skillicons.dev/icons?i=github" /> <img alt="Gitea" src="https://cdn.simpleicons.org/gitea/609926" width="48" height="48" /> <img alt="Git" src="https://skillicons.dev/icons?i=git" /> <img alt="npm" src="https://skillicons.dev/icons?i=npm" /> <img alt="Anaconda" src="https://skillicons.dev/icons?i=anaconda" /> <img alt="Notion" src="https://skillicons.dev/icons?i=notion" /> <img alt="Linux" src="https://skillicons.dev/icons?i=linux" /> <img alt="Windows" src="https://skillicons.dev/icons?i=windows" />
+</td>
+</tr>
+</table>
 
 ## Activities
 
