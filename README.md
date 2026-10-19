@@ -17,29 +17,21 @@
 
 ## Tech Stack
 
-<table>
-<tr>
-<td align="center" width="110"><img alt="React" src="https://skillicons.dev/icons?i=react" width="52" /><br>React</td>
-<td align="center" width="110"><img alt="Python" src="https://skillicons.dev/icons?i=py" width="52" /><br>Python</td>
-<td align="center" width="110"><img alt="HTML" src="https://skillicons.dev/icons?i=html" width="52" /><br>HTML</td>
-<td align="center" width="110"><img alt="CSS" src="https://skillicons.dev/icons?i=css" width="52" /><br>CSS</td>
-<td align="center" width="110"><img alt="Oracle SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" /><br>Oracle SQL</td>
-</tr>
-<tr>
-<td align="center"><img alt="TypeScript" src="https://skillicons.dev/icons?i=ts" width="52" /><br>TypeScript</td>
-<td align="center"><img alt="JavaScript" src="https://skillicons.dev/icons?i=js" width="52" /><br>JavaScript</td>
-<td align="center"><img alt="GitHub" src="https://skillicons.dev/icons?i=github" width="52" /><br>GitHub</td>
-<td align="center"><img alt="Gitea" src="https://cdn.simpleicons.org/gitea/609926" width="48" height="48" /><br>Gitea</td>
-<td align="center"><img alt="Git" src="https://skillicons.dev/icons?i=git" width="52" /><br>Git</td>
-</tr>
-<tr>
-<td align="center"><img alt="npm" src="https://skillicons.dev/icons?i=npm" width="52" /><br>npm</td>
-<td align="center"><img alt="Anaconda" src="https://skillicons.dev/icons?i=anaconda" width="52" /><br>Anaconda</td>
-<td align="center"><img alt="Notion" src="https://skillicons.dev/icons?i=notion" width="52" /><br>Notion</td>
-<td align="center"><img alt="Linux" src="https://skillicons.dev/icons?i=linux" width="52" /><br>Linux</td>
-<td align="center"><img alt="Windows" src="https://skillicons.dev/icons?i=windows" width="52" /><br>Windows</td>
-</tr>
-</table>
+<img alt="React" src="https://skillicons.dev/icons?i=react" />
+<img alt="Python" src="https://skillicons.dev/icons?i=py" />
+<img alt="HTML" src="https://skillicons.dev/icons?i=html" />
+<img alt="CSS" src="https://skillicons.dev/icons?i=css" />
+<img alt="Oracle SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" />
+<img alt="TypeScript" src="https://skillicons.dev/icons?i=ts" />
+<img alt="JavaScript" src="https://skillicons.dev/icons?i=js" />
+<img alt="GitHub" src="https://skillicons.dev/icons?i=github" />
+<img alt="Gitea" src="https://cdn.simpleicons.org/gitea/609926" width="48" height="48" />
+<img alt="Git" src="https://skillicons.dev/icons?i=git" />
+<img alt="npm" src="https://skillicons.dev/icons?i=npm" />
+<img alt="Anaconda" src="https://skillicons.dev/icons?i=anaconda" />
+<img alt="Notion" src="https://skillicons.dev/icons?i=notion" />
+<img alt="Linux" src="https://skillicons.dev/icons?i=linux" />
+<img alt="Windows" src="https://skillicons.dev/icons?i=windows" />
 
 ## Activities
 
