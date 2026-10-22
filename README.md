@@ -1,15 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,100:1E3A8A&amp;height=180&amp;section=header&amp;text=Kota%20Sugiki&amp;fontSize=46&amp;fontColor=E6EDF3&amp;animation=fadeIn&amp;fontAlignY=38" />
-  <img alt="Kota Sugiki" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0369A1,100:2563EB&amp;height=180&amp;section=header&amp;text=Kota%20Sugiki&amp;fontSize=46&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38" />
-</picture>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&amp;size=22&amp;duration=4000&amp;pause=1200&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=560&amp;lines=%E5%80%8B%E4%BA%BA%E9%96%8B%E7%99%BA%E3%81%AE%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2;%E7%94%9F%E6%88%90AI%E3%81%A8%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%81%AE%E3%82%A2%E3%83%97%E3%83%AA%E9%96%8B%E7%99%BA;%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%ABLLM%E3%81%A8%E7%94%9F%E6%88%90AI%E3%81%AE%E6%95%99%E8%82%B2" />
-    <img alt="個人開発のソフトウェアエンジニア。生成AIと機械学習のアプリ開発。ローカルLLMと生成AIの教育。" src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&amp;size=22&amp;duration=4000&amp;pause=1200&amp;color=0969DA&amp;center=true&amp;vCenter=true&amp;width=560&amp;lines=%E5%80%8B%E4%BA%BA%E9%96%8B%E7%99%BA%E3%81%AE%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2;%E7%94%9F%E6%88%90AI%E3%81%A8%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%81%AE%E3%82%A2%E3%83%97%E3%83%AA%E9%96%8B%E7%99%BA;%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%ABLLM%E3%81%A8%E7%94%9F%E6%88%90AI%E3%81%AE%E6%95%99%E8%82%B2" />
-  </picture>
-</p>
-
+<H1>Kota Sugiki</H1>
 個人開発しているソフトウェアエンジニアです。生成AIや機械学習を活用したアプリ開発をやってます。
 最近はローカルLLMの環境構築と生成AIに関する教育・アウトリーチも行っています。
 
@@ -58,8 +47,3 @@
 </td>
 </tr>
 </table>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1E3A8A,100:0F172A&amp;height=100&amp;section=footer" />
-  <img alt="" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2563EB,100:0369A1&amp;height=100&amp;section=footer" />
-</picture>
